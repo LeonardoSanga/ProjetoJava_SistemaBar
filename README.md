@@ -1,5 +1,5 @@
 # Projeto em Java - Sistema de Bar
-Peojeto em java com integração com banco de dados PostgreSQL, requerido na disciplina de Linguagem de Programação 1, que tem por objetivo aplicar os conhecimento adquiridos ao longo do semestre.
+Peojeto em java com integração com banco de dados PostgreSQL, proposto na disciplina de Linguagem de Programação 1, que tem por objetivo aplicar os conhecimento adquiridos ao longo do semestre.
 
 ## Tela de login
 ![image](https://github.com/LeonardoSanga/ProjetoJava_SistemaBar/assets/100099053/79d198bf-096a-45e2-820f-7ac36d6350ab)
